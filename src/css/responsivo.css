@@ -1,0 +1,242 @@
+@media(max-width: 1090px) {
+    .img-primeiro {
+        height: 500px;
+        width: 100%;
+    }
+
+    .img-primeiro .imagem-primeiro{
+        height: 400px;
+        width: 950px;
+    }
+
+    .img-segundo {
+        height: 500px;
+        width: 100%;
+    }
+
+    .img-segundo .imagem-segundo{
+        height: 400px;
+        width: 950px;
+    }
+
+    .img-terceiro {
+        height: 500px;
+        width: 100%;
+    }
+
+    .img-terceiro .imagem-terceiro{
+        height: 400px;
+        width: 950px;
+    }
+}
+
+@media(max-width: 964px) {
+    .img-primeiro {
+        height: 550px;
+        width: 100%;
+    }
+
+    .img-primeiro .imagem-primeiro{
+        height: 350px;
+        width: 700px;
+    }
+
+    .img-segundo {
+        height: 550px;
+        width: 100%;
+    }
+
+    .img-segundo .imagem-segundo{
+        height: 350px;
+        width: 700px;
+    }
+
+    .img-terceiro {
+        height: 550px;
+        width: 100%;
+    }
+
+    .img-terceiro .imagem-terceiro{
+        height: 350px;
+        width: 700px;
+    }
+}
+
+@media(max-width: 714px){
+    .img-primeiro {
+        height: 350px;
+        width: 100%;
+    }
+
+    .img-primeiro .imagem-primeiro{
+        height: 250px;
+        width: 500px;
+    }
+
+    .img-segundo {
+        height: 350px;
+        width: 100%;
+    }
+
+    .img-segundo .imagem-segundo{
+        height: 250px;
+        width: 500px;
+    }
+
+    .img-terceiro {
+        height: 350px;
+        width: 100%;
+    }
+
+    .img-terceiro .imagem-terceiro{
+        height: 250px;
+        width: 500px;
+    }
+}
+
+@media(max-width: 631px) {
+    .conteudo-primeiro .titulo-primeiro {
+        font-size: 30px;
+    }
+
+    .conteudo-primeiro .texto-primeiro {
+        font-size: 18px;
+    }
+
+    .conteudo-segundo .titulo-segundo{
+        font-size: 30px;
+    }
+
+    .conteudo-segundo .texto-segundo{
+        font-size: 18px;
+    }
+
+    .conteudo-terceiro .titulo-terceiro{
+        font-size: 30px;
+    }
+
+    .conteudo-terceiro .texto-terceiro{
+        font-size: 18px;
+    }
+}
+
+@media(max-width: 515px) {
+    .img-primeiro {
+        height: 200px;
+        width: 100%;
+    }
+
+    .img-primeiro .imagem-primeiro{
+        height: 150px;
+        width: 350px;
+    }
+
+    .img-segundo {
+        height: 200px;
+        width: 100%;
+    }
+
+    .img-segundo .imagem-segundo{
+        height: 150px;
+        width: 350px;
+    }
+
+    .img-terceiro {
+        height: 200px;
+        width: 100%;
+    }
+
+    .img-terceiro .imagem-terceiro{
+        height: 150px;
+        width: 350px;
+    }
+
+    .link-botao {
+        width: 350px;
+        font-size: 15px;
+    }
+}
+
+@media(max-width: 457px) {
+    .conteudo-primeiro .titulo-primeiro {
+        font-size: 30px;
+    }
+
+    .conteudo-primeiro .texto-primeiro {
+        font-size: 15px;
+    }
+
+    .conteudo-segundo .titulo-segundo{
+        font-size: 30px;
+    }
+
+    .conteudo-segundo .texto-segundo{
+        font-size: 15px;
+    }
+
+    .conteudo-terceiro .titulo-terceiro{
+        font-size: 30px;
+    }
+
+    .conteudo-terceiro .texto-terceiro{
+        font-size: 15px;
+    }
+}
+
+@media(max-width: 364px) {
+    .img-primeiro {
+        height: 200px;
+        width: 100%;
+    }
+
+    .img-primeiro .imagem-primeiro{
+        height: 100px;
+        width: 250px;
+    }
+
+    .img-segundo {
+        height: 200px;
+        width: 100%;
+    }
+
+    .img-segundo .imagem-segundo{
+        height: 100px;
+        width: 250px;
+    }
+
+    .img-terceiro {
+        height: 200px;
+        width: 100%;
+    }
+
+    .img-terceiro .imagem-terceiro{
+        height: 100px;
+        width: 250px;
+    }
+}
+
+@media (max-width: 332px) {
+    .conteudo-primeiro .titulo-primeiro {
+        font-size: 22px;
+    }
+
+    .conteudo-primeiro .texto-primeiro {
+        font-size: 13px;
+    }
+
+    .conteudo-segundo .titulo-segundo{
+        font-size: 22px;
+    }
+
+    .conteudo-segundo .texto-segundo{
+        font-size: 13px;
+    }
+
+    .conteudo-terceiro .titulo-terceiro{
+        font-size: 22px;
+    }
+
+    .conteudo-terceiro .texto-terceiro{
+        font-size: 13px;
+    }
+}
